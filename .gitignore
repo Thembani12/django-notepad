@@ -1,0 +1,5 @@
+notepad/notepad/.env
+.env
+notepad/notepad/__init__.py
+notepad/notes/migrations/
+notepad/notes/__init__.py
